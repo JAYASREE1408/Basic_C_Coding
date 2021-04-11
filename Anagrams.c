@@ -4,7 +4,7 @@ int main(){
 	char a[30],b[30];
 	int x[26]={0},y[26]={0};
 	gets(a);
-	gets(b);
+	gets(b); 
 	if(strlen(a)!=strlen(b)){
 		printf("The two strings are not anagrams!");
 	}
