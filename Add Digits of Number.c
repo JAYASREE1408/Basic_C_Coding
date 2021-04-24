@@ -12,3 +12,4 @@ int main(){
 	printf("No. of digits are: %ld\n",count);
 	printf("The sum is: %ld\n",sum);
 }
+
