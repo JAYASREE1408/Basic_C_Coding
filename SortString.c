@@ -1,7 +1,7 @@
 /* C Program to sort a string in alphabetical order */
 #include <stdio.h>
 #include <string.h>
-
+ 
 int main ()
 {
 	char string[100];
