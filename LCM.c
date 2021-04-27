@@ -4,7 +4,7 @@ int main(){
 	scanf("%d %d",&a,&b);
 	if(a>b)
 		lcm=a;
-	else
+	else 
 		lcm=b;
 	while(1){
 		if(lcm%a==0 && lcm%b==0){
